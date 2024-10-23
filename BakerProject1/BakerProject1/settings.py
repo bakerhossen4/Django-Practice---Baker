@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'BakerApp1',
     'BakerApp2',
+    'BakerApp3',
 ]
 
 MIDDLEWARE = [
